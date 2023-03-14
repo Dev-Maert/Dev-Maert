@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Dev Maert 😁
 
  <div>
-   <a href="https://github.com/Dev-Maert">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Maert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Maert&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/dev-maert">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-maert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-maert&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -22,6 +22,6 @@
   <a href = "mailto:marciorodrigues94@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=e-mail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/m%C3%A1rcio-rodrigues-1166a718a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Dev-Maert/Dev-Maert/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dev-maert/dev-maert/blob/output/github-contribution-grid-snake.svg)
 
 </div>
